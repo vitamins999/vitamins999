@@ -1,4 +1,4 @@
-# Jools Barnett - Front End Developer
+# Jools Barnett - Front End Developer 😸
 
 Hi there! I'm Jools Barnett and I'm a frontend web developer. Though,
 you've probably already figured that out.
