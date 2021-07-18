@@ -19,6 +19,7 @@ real passion for creative problem solving.
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25"/> Node.js
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="25"/> PostgreSQL
 * <img src="https://img.stackshare.io/service/1030/leaf-360x360.png" width="25"/> MongoDB
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25"/> Python
 
 ## Examples of Work
 
