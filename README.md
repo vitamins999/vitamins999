@@ -7,9 +7,11 @@ I specialise in React (specifically Next.js) and I'm on the lookout
 for a job as a junior developer. I'm also full stack capable, with a
 real passion for creative problem solving.
 
-## Portfolio Website
+## Online Presence
 
 Check out my portfolio at: [https://www.joolsbarnett.com](https://www.joolsbarnett.com/)
+
+And my LinkedIn profile at: [https://www.linkedin.com/in/jools-barnett/](https://www.linkedin.com/in/jools-barnett/)
 
 ## Core Skills
 
